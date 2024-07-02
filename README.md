@@ -1,11 +1,20 @@
 # Robotics-and-Controls
+This is a repo for the resources for the YouTube course on "Robotics and Control"! 
+The lecture series is ideal for 2nd-and-3rd-year engineering undergraduates interested in robotics, though all are welcome. 
+Lectures will be uploaded every Tuesday and Thursday at 5 PM.
 
-Link to the playlist: [[Playlist](https://youtube.com/playlist?list=PL5HnE_lHbcogt_91Yy-5LGSsEhyLGdJ4Y&feature=shared)]
+## Course Syllabus
+Python Basics, Coordinate Frames and Homogeneous Transformations, FK and IK (2D manipulators, Differential Drive), Jacobian and its applications, Dynamics and Euler-Lagrangian Equations, Optimization, Trajectory Optimization, and Trajectory Generation, Feedback Linearization, Linear Control, Understanding 3D Motions, D-H Algorithm for Manipulators
 
-## List of all the lecture and the resources
+## How to use this resource repo
+1. Clone this repo to get the codes and notes for all the lectures
+3. Want to go to the Playlist directly, here is the link: [[Playlist](https://youtube.com/playlist?list=PL5HnE_lHbcogt_91Yy-5LGSsEhyLGdJ4Y&feature=shared)]
+4. Find individual video lectures below
+
+## List of all the video lectures (and their links)
   1. **Lecture-1a:** Introduction                          [[Video](https://youtu.be/VyPqcnUwWeY?feature=shared)]
-  2. **Lecture-1b:** Python Basics                         [[Video](https://youtu.be/PM4g1GFLMzk?feature=shared)][[Codes](https://github.com/singhaman1750/Robotics-and-Controls/tree/main/Lec1b_PythonBasics)]
-  3. **Lecture-2a:** Python Plots and Animations           [[Video](https://youtu.be/fvyIp7nf-Cc?feature=shared)][[Codes](https://github.com/singhaman1750/Robotics-and-Controls/tree/main/Lec2a_PythonPlotsAndAnimations)]
-  4. **Lecture-2b:** Python: Animation of SHM              [[Video](https://youtu.be/pU6gM1dK6eA?feature=shared)][[Codes](https://github.com/singhaman1750/Robotics-and-Controls/blob/main/Lec2b_PythonAnimationOfSHM/shmAnimation.py)]
-  5. **Lecture-3:**  Coordinate Frames and Transformations [[Video](https://youtu.be/FjMSA1BwlHg?feature=shared)][[Notes]()]
-  6. **Lecture-4:**  Forward Kinematics of 2D-Manipulator  [[Video]()][[Notes]()][[Codes](https://github.com/singhaman1750/Robotics-and-Controls/blob/main/Lec4_FKfor2dManipulators/manipulator_forward.py)]
+  2. **Lecture-1b:** Python Basics                         [[Video](https://youtu.be/PM4g1GFLMzk?feature=shared)]
+  3. **Lecture-2a:** Python Plots and Animations           [[Video](https://youtu.be/fvyIp7nf-Cc?feature=shared)]
+  4. **Lecture-2b:** Python: Animation of SHM              [[Video](https://youtu.be/pU6gM1dK6eA?feature=shared)]
+  5. **Lecture-3:**  Coordinate Frames and Transformations [[Video](https://youtu.be/FjMSA1BwlHg?feature=shared)]
+  6. **Lecture-4:**  Forward Kinematics of 2D-Manipulator  [[Video]()]
