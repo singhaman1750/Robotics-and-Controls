@@ -12,10 +12,11 @@ Python Basics, Coordinate Frames and Homogeneous Transformations, FK and IK (2D 
 4. Find individual video lectures below
 
 ## List of all the video lectures (and their links)
-  1. **Lecture-1a:** Introduction                          [[Video](https://youtu.be/VyPqcnUwWeY?feature=shared)]
-  2. **Lecture-1b:** Python Basics                         [[Video](https://youtu.be/PM4g1GFLMzk?feature=shared)]
-  3. **Lecture-2a:** Python Plots and Animations           [[Video](https://youtu.be/fvyIp7nf-Cc?feature=shared)]
-  4. **Lecture-2b:** Python: Animation of SHM              [[Video](https://youtu.be/pU6gM1dK6eA?feature=shared)]
-  5. **Lecture-3:**  Coordinate Frames and Transformations [[Video](https://youtu.be/FjMSA1BwlHg?feature=shared)]
-  6. **Lecture-4:**  Forward Kinematics of 2D-Manipulator  [[Video](https://youtu.be/x2w0YJq4lA0)]
-  7. **Lecture-5:**  Inverse Kinematics of 2D-Manipulator  [[Video](https://youtu.be/rgpqWPDIOfk)]
+  1. **Lecture-1a:** Introduction                             [[Video](https://youtu.be/VyPqcnUwWeY?feature=shared)]
+  2. **Lecture-1b:** Python Basics                            [[Video](https://youtu.be/PM4g1GFLMzk?feature=shared)]
+  3. **Lecture-2a:** Python Plots and Animations              [[Video](https://youtu.be/fvyIp7nf-Cc?feature=shared)]
+  4. **Lecture-2b:** Python: Animation of SHM                 [[Video](https://youtu.be/pU6gM1dK6eA?feature=shared)]
+  5. **Lecture-3:**  Coordinate Frames and Transformations    [[Video](https://youtu.be/FjMSA1BwlHg?feature=shared)]
+  6. **Lecture-4:**  Forward Kinematics of 2D-Manipulator     [[Video](https://youtu.be/x2w0YJq4lA0)]
+  7. **Lecture-5:**  Inverse Kinematics of 2D-Manipulator     [[Video](https://youtu.be/rgpqWPDIOfk)]
+  8. **Lecture-6:**  Differential Drive - Forward Kinematics  [[Video](https://www.youtube.com/watch?v=N29NfXD1qy8)]
