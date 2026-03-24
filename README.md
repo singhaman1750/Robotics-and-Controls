@@ -20,3 +20,4 @@ Python Basics, Coordinate Frames and Homogeneous Transformations, FK and IK (2D 
   6. **Lecture-4:**  Forward Kinematics of 2D-Manipulator     [[Video](https://youtu.be/x2w0YJq4lA0)]
   7. **Lecture-5:**  Inverse Kinematics of 2D-Manipulator     [[Video](https://youtu.be/rgpqWPDIOfk)]
   8. **Lecture-6:**  Differential Drive - Forward Kinematics  [[Video](https://www.youtube.com/watch?v=N29NfXD1qy8)]
+  9. **Lecture-7:**  Differential Drive - Inverse Kinematics  [[Video](https://youtu.be/6sigrOegZdQ?si=9T0Mdh6EW42WR6Wb)]
